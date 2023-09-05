@@ -17,8 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-  <img src="https://github.com/Janak67/watch_app/assets/141834407/1b2b33ec-a81f-4ef7-927e-8c642f1cb7c3" hight="400" width ="150">
-  <img src="https://github.com/Janak67/watch_app/assets/141834407/27abe0d8-ec0e-4eb1-b479-eec4d71249f6" hight="400" width ="150">
+  <img src="https://github.com/Janak67/watch_app/assets/141834407/27abe0d8-ec0e-4eb1-b479-eec4d71249f6" hight="500" width ="150">
 
   
 </p>
